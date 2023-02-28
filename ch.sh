@@ -30,7 +30,7 @@ printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\____
 
 printf " \e[1;93m CamPhish Ver 1.6 \e[0m \n"
 
-printf " \e[1;77m www.techchip.net | youtube.com/infobrust60\e[0m \n"
+printf " \e[1;77m USMAN MUGHAL | youtube.com/infobrust60\e[0m \n"
 
 printf "\n"
 
